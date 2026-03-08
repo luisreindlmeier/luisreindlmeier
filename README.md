@@ -1,7 +1,5 @@
 ## Luis Reindlmeier
 
-Software engineer building thoughtful side projects in **TypeScript** and **Python**.
-
 - I mainly work on **web applications**, **developer tooling** and **AI orchestration systems**.  
 - Occasionally thinking about AI in market microstructure. Currently continuing research on **Transformer-Based Predictions of Limit Order Book Dynamics**.  
 - Also organizing **HackFrank26**, Frankfurt's most innovative hackathon — [hackfrank.de](https://hackfrank.de)
