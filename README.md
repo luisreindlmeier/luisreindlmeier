@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Luis 
 
-<!--
-**luisreindlmeier/luisreindlmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building thoughtful side projects.
+Occasionally thinking about machine learning research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+![My Skills](https://skillicons.dev/icons?i=typescript,python,react,angular)
+
+---
+
+## Contributions
+
+![snake gif](https://raw.githubusercontent.com/luisreindlmeier/luisreindlmeier/output/github-contribution-grid-snake.svg)
+
+---
